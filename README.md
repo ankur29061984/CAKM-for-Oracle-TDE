@@ -1,9 +1,9 @@
 # CAKM for Oracle TDE
 
 ## Overview
-CipherTrust Application Key Management (CAKM) for Oracle Transparent Data Encryption (TDE) provides a secure way to manage encryption keys for Oracle databases. This document outlines key use cases for CAKM integration with Oracle TDE.
+CipherTrust Application Key Management (CAKM) for Oracle Transparent Data Encryption (TDE) provides a secure way to manage encryption keys for Oracle databases. This document outlines auomation for CAKM integration with Oracle TDE.
 
-## Use Cases
+## Automation scripts
 
 ### 1. Migration from Auto-Login File Wallet to Auto-Login HSM Wallet
 - **Description**: Migrates an existing Auto-Login File Wallet to an HSM-based Auto-Login Wallet.
