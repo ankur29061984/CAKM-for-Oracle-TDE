@@ -1,8 +1,5 @@
 # CAKM for Oracle TDE
 
-![image](https://github.com/user-attachments/assets/b4d44877-442f-4d95-8eba-642867355029)
-
-
 ## Overview
 CipherTrust Application Key Management (CAKM) for Oracle Transparent Data Encryption (TDE) provides a secure way to manage encryption keys for Oracle databases. This document outlines auomation for CAKM integration with Oracle TDE.
 
