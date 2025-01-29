@@ -34,15 +34,6 @@ CipherTrust Application Key Management (CAKM) for Oracle Transparent Data Encryp
   3. Update Oracle TDE to use the new File Wallet.
   4. Validate and test decryption operations.
 
-### 4. TDE Master Key Rotation
-- **Description**: Regularly rotates the TDE master encryption key to enhance security.
-- **Benefits**: Prevents key compromise and maintains compliance.
-- **Steps**:
-  1. Generate a new TDE master key.
-  2. Rotate the key within the Oracle Wallet or HSM Wallet.
-  3. Ensure all encrypted tablespaces are re-encrypted with the new key.
-  4. Validate encryption and access controls.
-
 ## Prerequisites
 - Oracle Database with TDE enabled.
 - CipherTrust Manager (version 2.19 or later recommended).
