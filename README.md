@@ -37,7 +37,6 @@ CipherTrust Application Key Management (CAKM) for Oracle Transparent Data Encryp
 ## Prerequisites
 - Oracle Database with TDE enabled.
 - CipherTrust Manager (version 2.19 or later recommended).
-- DBAASCLI utility for seamless integration.
 - Required permissions for managing Oracle Wallets and TDE keys.
 
 ## Validation
